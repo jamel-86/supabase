@@ -103,6 +103,12 @@
   </url>
 
   <url>
+    <loc>https://supabase.com/vector/Vector</loc>
+    <changefreq>weekly</changefreq>
+    <changefreq>0.5</changefreq>
+  </url>
+
+  <url>
     <loc>https://supabase.com/blog/supabase-alpha-april-2020</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
@@ -1185,6 +1191,30 @@
   </url>
 
   <url>
+    <loc>https://supabase.com/blog/building-chatgpt-plugins-template</loc>
+    <changefreq>weekly</changefreq>
+    <changefreq>0.5</changefreq>
+  </url>
+
+  <url>
+    <loc>https://supabase.com/blog/chatgpt-plugins-support-postgres</loc>
+    <changefreq>weekly</changefreq>
+    <changefreq>0.5</changefreq>
+  </url>
+
+  <url>
+    <loc>https://supabase.com/blog/flutter-hackathon-winners</loc>
+    <changefreq>weekly</changefreq>
+    <changefreq>0.5</changefreq>
+  </url>
+
+  <url>
+    <loc>https://supabase.com/blog/vecs</loc>
+    <changefreq>weekly</changefreq>
+    <changefreq>0.5</changefreq>
+  </url>
+
+  <url>
     <loc>https://supabase.com/customers/epsilon3</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
@@ -1192,6 +1222,12 @@
 
   <url>
     <loc>https://supabase.com/customers/happyteams</loc>
+    <changefreq>weekly</changefreq>
+    <changefreq>0.5</changefreq>
+  </url>
+
+  <url>
+    <loc>https://supabase.com/customers/markprompt</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
   </url>
@@ -1269,6 +1305,12 @@
   </url>
 
   <url>
+    <loc>https://supabase.com/partners/integrations/buildlab</loc>
+    <changefreq>weekly</changefreq>
+    <changefreq>0.5</changefreq>
+  </url>
+
+  <url>
     <loc>https://supabase.com/partners/integrations/clerk</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
@@ -1329,6 +1371,12 @@
   </url>
 
   <url>
+    <loc>https://supabase.com/partners/integrations/dronahq</loc>
+    <changefreq>weekly</changefreq>
+    <changefreq>0.5</changefreq>
+  </url>
+
+  <url>
     <loc>https://supabase.com/partners/integrations/enginedigital</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
@@ -1359,6 +1407,12 @@
   </url>
 
   <url>
+    <loc>https://supabase.com/partners/integrations/forestadmin</loc>
+    <changefreq>weekly</changefreq>
+    <changefreq>0.5</changefreq>
+  </url>
+
+  <url>
     <loc>https://supabase.com/partners/integrations/getstream_io</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
@@ -1366,6 +1420,12 @@
 
   <url>
     <loc>https://supabase.com/partners/integrations/illa</loc>
+    <changefreq>weekly</changefreq>
+    <changefreq>0.5</changefreq>
+  </url>
+
+  <url>
+    <loc>https://supabase.com/partners/integrations/infisical</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
   </url>
@@ -1390,6 +1450,12 @@
 
   <url>
     <loc>https://supabase.com/partners/integrations/morrow</loc>
+    <changefreq>weekly</changefreq>
+    <changefreq>0.5</changefreq>
+  </url>
+
+  <url>
+    <loc>https://supabase.com/partners/integrations/n8n</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
   </url>
@@ -1462,6 +1528,12 @@
 
   <url>
     <loc>https://supabase.com/partners/integrations/readyset</loc>
+    <changefreq>weekly</changefreq>
+    <changefreq>0.5</changefreq>
+  </url>
+
+  <url>
+    <loc>https://supabase.com/partners/integrations/refine_dev</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
   </url>
@@ -1623,6 +1695,12 @@
   </url>
 
   <url>
+    <loc>https://supabase.com/partners/experts/buildlab</loc>
+    <changefreq>weekly</changefreq>
+    <changefreq>0.5</changefreq>
+  </url>
+
+  <url>
     <loc>https://supabase.com/partners/experts/clerk</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
@@ -1683,6 +1761,12 @@
   </url>
 
   <url>
+    <loc>https://supabase.com/partners/experts/dronahq</loc>
+    <changefreq>weekly</changefreq>
+    <changefreq>0.5</changefreq>
+  </url>
+
+  <url>
     <loc>https://supabase.com/partners/experts/enginedigital</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
@@ -1713,6 +1797,12 @@
   </url>
 
   <url>
+    <loc>https://supabase.com/partners/experts/forestadmin</loc>
+    <changefreq>weekly</changefreq>
+    <changefreq>0.5</changefreq>
+  </url>
+
+  <url>
     <loc>https://supabase.com/partners/experts/getstream_io</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
@@ -1720,6 +1810,12 @@
 
   <url>
     <loc>https://supabase.com/partners/experts/illa</loc>
+    <changefreq>weekly</changefreq>
+    <changefreq>0.5</changefreq>
+  </url>
+
+  <url>
+    <loc>https://supabase.com/partners/experts/infisical</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
   </url>
@@ -1744,6 +1840,12 @@
 
   <url>
     <loc>https://supabase.com/partners/experts/morrow</loc>
+    <changefreq>weekly</changefreq>
+    <changefreq>0.5</changefreq>
+  </url>
+
+  <url>
+    <loc>https://supabase.com/partners/experts/n8n</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
   </url>
@@ -1816,6 +1918,12 @@
 
   <url>
     <loc>https://supabase.com/partners/experts/readyset</loc>
+    <changefreq>weekly</changefreq>
+    <changefreq>0.5</changefreq>
+  </url>
+
+  <url>
+    <loc>https://supabase.com/partners/experts/refine_dev</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
   </url>
